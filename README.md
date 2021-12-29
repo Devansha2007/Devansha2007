@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devansha
-- 👀 I’m interested in java script, html, css, python and c#
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in java script, html, css and python 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maheshwaridevansha@gmail.com
 
